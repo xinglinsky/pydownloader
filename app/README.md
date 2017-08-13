@@ -1,8 +1,9 @@
 # Movie Download Manager--Using it with pyspider
+![docker](http://oukrrnfuf.bkt.clouddn.com/docker-small.png)
 
 ## OverView
 ### Some issue 
-1. If you want download some movie in **China**, you always need **Windows** and **Thunder**.I run it with *Window10* and Thunder. 
+1. If you want download some movie in **China**, you always need **Windows** and **Thunder**.I run it with *Window10* and *Thunder 9*. 
 
 ***
 
@@ -20,3 +21,5 @@
    * copy the content in *app.sql* and execute it:
 ***
     
+## Link
+PySpider: [http://docs.pyspider.org/en/latest/](http://docs.pyspider.org/en/latest/)
